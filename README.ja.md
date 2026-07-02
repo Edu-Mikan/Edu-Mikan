@@ -19,9 +19,11 @@
 
 ### スキルとツール
 <p align="left">
-  <img src="https://img.shields.io/badge/-Flutter-blue?logo=flutter" alt="Flutter">
+  <img src="https://img.shields.io/badge/-Flutter-lightgrey?logo=flutter" alt="Flutter">
   <img src="https://img.shields.io/badge/-Dart-green?logo=dart" alt="Dart">
-  <img src="https://img.shields.io/badge/-Node-red?logo=nodedotjs" alt="Node.js">
+  <img src="https://img.shields.io/badge/-Node-blue?logo=nodedotjs" alt="Node.js">
+  <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-MongoDB-gray?logo=mongodb" alt="MongoDB">
 </p>
 
 ---
