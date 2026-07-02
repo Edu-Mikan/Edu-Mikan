@@ -20,10 +20,9 @@ Soy un desarrollador de software interesado por la tecnología y los idiomas, ac
 
 ### Tecnologías y Herramientas
 <p align="left">
-  <img src="https://shields.io" alt="Flutter">
-  <img src="https://shields.io" alt="Dart">
-  <img src="https://shields.io" alt="Node.js">
-  <img src="https://shields.io" alt="Git">
+  <img src="https://img.shields.io/badge/-Flutter-blue?logo=flutter" alt="Flutter">
+  <img src="https://img.shields.io/badge/-Dart-green?logo=dart" alt="Dart">
+  <img src="https://img.shields.io/badge/-Node-red?logo=nodedotjs" alt="Node.js">
 </p>
 
 ---
