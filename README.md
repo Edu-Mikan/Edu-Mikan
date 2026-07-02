@@ -1,16 +1,30 @@
-## Sobre mi
-Soy un desarrollador aprendiendo GitHub✨.
-<!--
-**Edu-Mikan/Edu-Mikan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bienevenido a mi perfil de github.
 
-Here are some ideas to get you started:
+<!-- Selectores de Idioma -->
+<p align="left">
+  <a href="./README.md"><img src="https://img.shields.io/badge/lang-Espa%C3%B1ol-blue?logo=github" alt="Español"></a>
+  <a href="./README.ja.md"><img src="https://img.shields.io/badge/lang-%E6%97%A5%E6%9C%AC%E8%AA%9E-red?logo=github" alt="Japanese"></a>
+  <a href="./README.en.md"><img src="https://img.shields.io/badge/lang-English-green?logo=github" alt="English"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Soy un desarrollador de software interesado por la tecnología y los idiomas, actualmente enfocado en la intersección entre la **Programación** y el **Machine Learning** aplicado al aprendizaje de japonés.
+
+### Sobre mí
+- **Mi objetivo actual:** Desarrollar un sistema de Machine Learning para desarrollar una herramienta orientada al estudio de Kanjis japoneses.
+- **Tecnologías que uso:** Flutter para el frontend móvil y Node.js para los servicios del backend.
+- **Mis aficiones:** Programar y la cultura japonesa. 
+
+### Mi Proyecto Principal
+* **[kanji-app](https://github.com):** Una aplicación móvil construida con **Flutter** con el objetivo de facilitar la retención y práctica de Kanjis de forma inteligente.
+
+### Tecnologías y Herramientas
+<p align="left">
+  <img src="https://shields.io" alt="Flutter">
+  <img src="https://shields.io" alt="Dart">
+  <img src="https://shields.io" alt="Node.js">
+  <img src="https://shields.io" alt="Git">
+</p>
+
+---
+¡Gracias por visitar mi perfil! Todavía estoy aprendiendo, ¡cualquier feedback o colaboración es bienvenida!
